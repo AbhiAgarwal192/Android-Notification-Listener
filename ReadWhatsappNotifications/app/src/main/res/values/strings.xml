@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReadWhatsappNotifications</string>
+    <string name="app">Notifications</string>
+    <string name="preference_file_key">WhatsAppMessages</string>
+    <string name="messages">Messages</string>
+    <string name="refresh">Refresh</string>
+    <string name="delete">Delete</string>
+    <string name="NoMessages">No Messages Available</string>
+</resources>
